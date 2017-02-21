@@ -1,3 +1,4 @@
+package com.tadi.hotel;
 
 public class Cntroller {
 /** An object of this class controls the operations of the system*/	

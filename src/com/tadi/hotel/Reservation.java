@@ -1,3 +1,4 @@
+package com.tadi.hotel;
 
 public class Reservation {
 /** An object of this class represents a reservation*/

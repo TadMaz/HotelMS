@@ -1,3 +1,4 @@
+package com.tadi.hotel;
 
 public enum DayOfWeek {
 	/**Days of the week*/
